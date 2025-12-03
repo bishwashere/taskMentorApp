@@ -1,4 +1,4 @@
-package com.unclesamtech.azent
+package com.unclesamstech.taskmentor
 
 import io.flutter.embedding.android.FlutterActivity
 
